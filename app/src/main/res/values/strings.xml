@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Homework 5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="log_in">Log in</string>
+    <string name="trivia">Trivia</string>
+    <string name="log_in_with_facebook">Log in with Facebook</string>
+    <string name="up_with_email">Up with email</string>
+    <string name="or">--------OR--------</string>
+    <string name="game_now">Game now</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="next">Next</string>
+</resources>
